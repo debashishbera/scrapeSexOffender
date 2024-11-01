@@ -1,0 +1,83 @@
+[
+    {
+        "name": "JOHN SHIELDS",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "September 27, 2024",
+        "Registered Since": "September 22, 2005",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHN SINGLETON",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "April 20, 2018",
+        "Registered Since": "February 9, 2006",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHN SMITH",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "June 24, 2024",
+        "Registered Since": "December 30, 2002",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHN SMITH",
+        "Risk Level": "Tier 3 (High Risk)",
+        "Verified On": "January 11, 2010",
+        "Registered Since": "July 19, 2005",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "Yes"
+    },
+    {
+        "name": "JONATHAN SPEARS",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "August 22, 2024",
+        "Registered Since": "February 26, 2007",
+        "In Prison": "No",
+        "Convicted Out of State": "Yes",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHN SPURLOCK",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "January 30, 2020",
+        "Registered Since": "April 23, 2009",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHNNY STEPHENS",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "August 27, 2024",
+        "Registered Since": "February 7, 2002",
+        "In Prison": "No",
+        "Convicted Out of State": "No",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "JOHN STEVENSON",
+        "Risk Level": "Tier 2 (Moderate Risk)",
+        "Verified On": "August 2, 2024",
+        "Registered Since": "August 10, 2004",
+        "In Prison": "No",
+        "Convicted Out of State": "Yes",
+        "Repeat Offender": "No"
+    },
+    {
+        "name": "DAVID STOVER",
+        "Risk Level": "Tier 3 (High Risk)",
+        "Verified On": "August 30, 2011",
+        "Registered Since": "August 25, 2005",
+        "In Prison": "Yes",
+        "Convicted Out of State": "Yes",
+        "Repeat Offender": "Yes"
+    }
+]
